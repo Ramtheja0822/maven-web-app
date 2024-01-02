@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to conprosol - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to conprosol - Software Training Institute in Bangalore <font></h1>
 
 <a href="https://conprosol.com/online-training-schedules">Click Here To See conprosol IT Training Schedules</a>
   
